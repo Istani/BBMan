@@ -5,7 +5,6 @@ public class Movement : MonoBehaviour
 {
 		float max_speed = 6;
 		Vector3 bewegung;
-		Vector3 last_pos;
 
 		void Start ()
 		{
@@ -25,7 +24,6 @@ public class Movement : MonoBehaviour
 						//Debug.Log (bewegung);
 
 						// Bewegung ausführen
-						last_pos = transform.position;
 						bewegung.x = bewegung.x - (Time.deltaTime);
 						if (bewegung.x < 0) {
 								bewegung.x = 0;
@@ -34,7 +32,6 @@ public class Movement : MonoBehaviour
 						if (bewegung.z < 0) {
 								bewegung.z = 0;
 						}
-						bewegung.y = bewegung.y;
 						transform.Translate (bewegung * Time.deltaTime);
 						bewegung.y = 0;
 				}

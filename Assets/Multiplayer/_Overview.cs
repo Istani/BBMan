@@ -4,27 +4,30 @@ using System.Collections.Generic;
 
 public class _Overview : MonoBehaviour
 {
-		GUI_Helper GUI_ZoD = new GUI_Helper ();
+		//GUI_Helper GUI_ZoD = new GUI_Helper ();
 		string GameKennzeichen = "BBMan";
-		string IP = "127.0.0.1";
+		//string IP = "127.0.0.1";
 		int Port = 25000;
 		bool NAT = true;
 
-		string connectTo = "";
-
+		//string connectTo = "";
+		float StartTimer = 0.0f;
+		float StartCooldown = 1f;
 		float UpdateTimer = 0.0f;
 		float UpdateCooldown = 5f;
 		Vector2 scrollPosition = Vector2.zero;
-		public bool server_not_connect = false;
+		bool server_not_connect = false;
+		public bool GameToStart = false;
+		bool StartSoon = false;
 		
 		public GameObject Player;
-		List<string> PlayerNames = new List<string> ();
+		Dictionary<NetworkPlayer, string> PlayerNames = new Dictionary<NetworkPlayer, string> ();
 		string PName = "";
 
 		// Use this for initialization
 		void Start ()
 		{
-				IP = Network.player.externalIP;
+				//IP = Network.player.externalIP;
 				MasterServer.ipAddress = "81.20.139.46";
 				MasterServer.port = 23466;
 				Network.natFacilitatorIP = MasterServer.ipAddress;
@@ -45,13 +48,41 @@ public class _Overview : MonoBehaviour
 						}
 						UpdateTimer -= Time.deltaTime;
 				}
+				if (Network.isServer && StartSoon) {
+						StartTimer -= Time.deltaTime;
+						if (StartTimer <= 0) {
+								networkView.RPC ("GameStart", RPCMode.All);
+								StartSoon = false;
+						}
+				}
 		}
 
 		void OnGUI ()
 		{
 				
 				if (Network.isServer || Network.isClient) {
-			
+						if (Network.isServer && GameToStart == false && StartSoon == false) {
+								Rect AnzeigeGamemnue = new Rect (50, 50, Screen.width - 100, Screen.height - 100);
+								GUI.Box (AnzeigeGamemnue, "");
+								GUILayout.BeginArea (AnzeigeGamemnue);
+								int i = 0;
+								foreach (NetworkPlayer p in PlayerNames.Keys) {
+										i++;
+										GUILayout.Label (i + ": " + PlayerNames [p]);
+								}
+								if (GUILayout.Button ("Start")) {
+										StartTimer = StartCooldown;
+										StartSoon = true;
+								}
+								GUILayout.EndArea ();
+						} 
+						if (Network.isClient && GameToStart == false) {
+								Rect AnzeigeGamemnue = new Rect (50, 50, Screen.width - 100, Screen.height - 100);
+								GUI.Box (AnzeigeGamemnue, "");
+								GUILayout.BeginArea (AnzeigeGamemnue);
+								GUILayout.Label ("Wait for the Game to Start...");
+								GUILayout.EndArea ();
+						} 
 				} else {
 						Rect AnzeigeGamemnue = new Rect (50, 50, Screen.width - 100, Screen.height - 100);
 						GUI.Box (AnzeigeGamemnue, "");
@@ -62,11 +93,9 @@ public class _Overview : MonoBehaviour
 								GUILayout.BeginHorizontal ();
 								PName = GUILayout.TextField (PName);
 								if (GUILayout.Button ("Spiel erstellen")) {
-										Network.InitializeServer (3, Port, NAT); 
+										Network.InitializeServer (32, Port, NAT); 
 										MasterServer.RegisterHost (GameKennzeichen, "Beta", "Dev");
-										GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
-										obj.name = PName;
-										GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel ();
+										PlayerNames.Add (Network.player, PName);
 								}
 								GUILayout.EndHorizontal ();
 								HostData[] data = MasterServer.PollHostList ();
@@ -104,14 +133,33 @@ public class _Overview : MonoBehaviour
 		}
 		void OnConnectedToServer ()
 		{
-				GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
-				obj.name = PName;
+				networkView.RPC ("PlayerAdd", RPCMode.Server, Network.player, PName);
 		}
 		void OnPlayerDisconnected (NetworkPlayer player)
 		{
+				PlayerNames.Remove (player);
 				Network.RemoveRPCs (player);
-				Network.DestroyPlayerObjects (player);
+				if (GameToStart) {
+						Network.DestroyPlayerObjects (player);
+				}
 		}
-	
+
+		[RPC]
+		public void PlayerAdd (NetworkPlayer player, string PN)
+		{
+				PlayerNames.Add (player, PN);
+		}
+
+		[RPC]
+		public void GameStart ()
+		{
+				if (Network.isServer) {
+						GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel ();
+				}
+				GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
+				obj.name = PName;
+				obj.transform.FindChild ("Camera").gameObject.SetActive (true);
+				GameToStart = true;
+		}
 	
 }
