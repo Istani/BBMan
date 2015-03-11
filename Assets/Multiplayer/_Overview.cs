@@ -33,7 +33,13 @@ public class _Overview : MonoBehaviour
 				Network.natFacilitatorIP = MasterServer.ipAddress;
 				Network.natFacilitatorPort = 23467;
 				int rng = Random.Range (0, Port);
-				PName = "Player " + rng.ToString ();
+				string tmp = "";
+				tmp = PlayerPrefs.GetString ("Player_Name");
+				if (tmp == "" || tmp == null) {
+						PName = "Player " + rng.ToString ();
+				} else {
+						PName = tmp;
+				}
 		}
 	
 		// Update is called once per frame
@@ -93,7 +99,8 @@ public class _Overview : MonoBehaviour
 								GUILayout.BeginHorizontal ();
 								PName = GUILayout.TextField (PName);
 								if (GUILayout.Button ("Spiel erstellen")) {
-										Network.InitializeServer (32, Port, NAT); 
+										PlayerPrefs.SetString ("Player_Name", PName);
+										Network.InitializeServer (31, Port, NAT); 
 										MasterServer.RegisterHost (GameKennzeichen, "Beta", "Dev");
 										PlayerNames.Add (Network.player, PName);
 								}
@@ -108,6 +115,7 @@ public class _Overview : MonoBehaviour
 										GUILayout.BeginHorizontal ();
 										if (element.connectedPlayers < element.playerLimit) { 
 												if (GUILayout.Button ("Connect")) {
+														PlayerPrefs.SetString ("Player_Name", PName);
 														Network.Connect (element);        
 												}
 												var name = element.gameName + " (Players: " + element.connectedPlayers + " / " + element.playerLimit + ")";
@@ -144,6 +152,12 @@ public class _Overview : MonoBehaviour
 				}
 		}
 
+		void OnDisconnectedFromServer ()
+		{
+				GameToStart = false;
+				Application.LoadLevel (0);
+		}
+
 		[RPC]
 		public void PlayerAdd (NetworkPlayer player, string PN)
 		{
@@ -154,6 +168,7 @@ public class _Overview : MonoBehaviour
 		public void GameStart ()
 		{
 				if (Network.isServer) {
+						MasterServer.UnregisterHost ();
 						GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel (PlayerNames.Count);
 				}
 				GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);

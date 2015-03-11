@@ -11,9 +11,9 @@ public class CreateGround : MonoBehaviour
 		GameObject[] Raender = new GameObject[4];
 		Vector3 StartZone = new Vector3 (50, 2, 50);
 		
-		public void GenerateLevel (int PlayerCpunt)
+		public void GenerateLevel (int PlayerCount)
 		{
-				StartZone = new Vector3 (PlayerCpunt * 5, 2, PlayerCpunt * 5);
+				StartZone = new Vector3 (PlayerCount * 5, 2, PlayerCount * 5);
 				GameObject TmpObject;
 				// Vorherige Blöcke löschen
 				foreach (Transform child in transform) {
