@@ -21,7 +21,7 @@ public class _Overview : MonoBehaviour
 		bool StartSoon = false;
 		
 		public GameObject Player;
-		Dictionary<NetworkPlayer, string> PlayerNames = new Dictionary<NetworkPlayer, string> ();
+		public Dictionary<NetworkPlayer, string> PlayerNames = new Dictionary<NetworkPlayer, string> ();
 		string PName = "";
 
 		// Use this for initialization
@@ -154,7 +154,7 @@ public class _Overview : MonoBehaviour
 		public void GameStart ()
 		{
 				if (Network.isServer) {
-						GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel ();
+						GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel (PlayerNames.Count);
 				}
 				GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
 				obj.name = PName;

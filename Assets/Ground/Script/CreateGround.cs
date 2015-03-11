@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class CreateGround : MonoBehaviour
 {
@@ -10,8 +11,9 @@ public class CreateGround : MonoBehaviour
 		GameObject[] Raender = new GameObject[4];
 		Vector3 StartZone = new Vector3 (50, 2, 50);
 		
-		public void GenerateLevel ()
+		public void GenerateLevel (int PlayerCpunt)
 		{
+				StartZone = new Vector3 (PlayerCpunt * 5, 2, PlayerCpunt * 5);
 				GameObject TmpObject;
 				// Vorherige Blöcke löschen
 				foreach (Transform child in transform) {
