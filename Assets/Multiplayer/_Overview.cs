@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class _Overview : MonoBehaviour
 {
@@ -17,6 +18,9 @@ public class _Overview : MonoBehaviour
 		public bool server_not_connect = false;
 		
 		public GameObject Player;
+		List<string> PlayerNames = new List<string> ();
+		string PName = "";
+
 		// Use this for initialization
 		void Start ()
 		{
@@ -25,6 +29,8 @@ public class _Overview : MonoBehaviour
 				MasterServer.port = 23466;
 				Network.natFacilitatorIP = MasterServer.ipAddress;
 				Network.natFacilitatorPort = 23467;
+				int rng = Random.Range (0, Port);
+				PName = "Player " + rng.ToString ();
 		}
 	
 		// Update is called once per frame
@@ -53,12 +59,16 @@ public class _Overview : MonoBehaviour
 						if (server_not_connect) {
 								GUILayout.Label ("Keine Verbindung zum Master Server!");
 						} else {
+								GUILayout.BeginHorizontal ();
+								PName = GUILayout.TextField (PName);
 								if (GUILayout.Button ("Spiel erstellen")) {
 										Network.InitializeServer (3, Port, NAT); 
 										MasterServer.RegisterHost (GameKennzeichen, "Beta", "Dev");
-										Network.Instantiate (Player, new Vector3 (1, 2, 0), Quaternion.identity, 0);
+										GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
+										obj.name = PName;
 										GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel ();
 								}
+								GUILayout.EndHorizontal ();
 								HostData[] data = MasterServer.PollHostList ();
 								if (data.Length == 0 && server_not_connect == false) {
 										GUILayout.Label ("Keine offene Spiele gefunden!");
@@ -94,7 +104,8 @@ public class _Overview : MonoBehaviour
 		}
 		void OnConnectedToServer ()
 		{
-				Network.Instantiate (Player, new Vector3 (1, 2, 0), Quaternion.identity, 0);
+				GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
+				obj.name = PName;
 		}
 		void OnPlayerDisconnected (NetworkPlayer player)
 		{

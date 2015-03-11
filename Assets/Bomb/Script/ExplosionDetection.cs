@@ -29,11 +29,9 @@ public class ExplosionDetection : MonoBehaviour
 		{
 				foreach (GameObject Objects in TocuhObjects) {
 						if (Objects.layer == 9) {
-								Objects.SetActive (false);
 								Destroy (Objects);
 						}
 				}
-				transform.parent.gameObject.SetActive (false);
 				Destroy (transform.parent.gameObject);
 		}
 }
