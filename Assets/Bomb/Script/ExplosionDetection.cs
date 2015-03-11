@@ -9,10 +9,12 @@ public class ExplosionDetection : MonoBehaviour
 		// Use this for initialization
 		void Update ()
 		{
-				TimeToExplode -= Time.deltaTime;
-				if (TimeToExplode <= 0) {
-						TimeToExplode = 99;
-						DoExplosiveDmg ();
+				if (networkView.isMine) { // weils nur der Server Spawnt ist es immer der Server
+						TimeToExplode -= Time.deltaTime;
+						if (TimeToExplode <= 0) {
+								TimeToExplode = 99;
+								DoExplosiveDmg ();
+						}
 				}
 		}
 		void OnTriggerEnter (Collider other)
@@ -29,9 +31,12 @@ public class ExplosionDetection : MonoBehaviour
 		{
 				foreach (GameObject Objects in TocuhObjects) {
 						if (Objects.layer == 9) {
-								Destroy (Objects);
+								// Abfrage was fürn Object das ist, wenn Portal dann Spawn Portal ;)
+								Network.Destroy (Objects.gameObject.GetComponent<NetworkView> ().viewID);
 						}
+						// Was wenn es Spieler sind
 				}
-				Destroy (transform.parent.gameObject);
+
+				Network.Destroy (transform.parent.gameObject.GetComponent<NetworkView> ().viewID);
 		}
 }

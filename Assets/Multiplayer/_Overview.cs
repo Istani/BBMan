@@ -49,6 +49,7 @@ public class _Overview : MonoBehaviour
 
 				} else {
 						if (UpdateTimer <= 0) {
+								MasterServer.ClearHostList ();
 								MasterServer.RequestHostList (GameKennzeichen);
 								UpdateTimer = UpdateCooldown;
 						}
@@ -77,6 +78,7 @@ public class _Overview : MonoBehaviour
 										GUILayout.Label (i + ": " + PlayerNames [p]);
 								}
 								if (GUILayout.Button ("Start")) {
+										MasterServer.UnregisterHost ();
 										StartTimer = StartCooldown;
 										StartSoon = true;
 								}
@@ -168,7 +170,6 @@ public class _Overview : MonoBehaviour
 		public void GameStart ()
 		{
 				if (Network.isServer) {
-						MasterServer.UnregisterHost ();
 						GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel (PlayerNames.Count);
 				}
 				GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
