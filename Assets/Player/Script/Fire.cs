@@ -16,7 +16,7 @@ public class Fire : MonoBehaviour
 				if (networkView.isMine) {
 						GameObject TmpBomb;
 						if (Input.GetButtonUp ("Fire1")) {
-								TmpBomb = (GameObject)Instantiate (Bomb, transform.position, transform.rotation);
+								TmpBomb = (GameObject)Network.Instantiate (Bomb, transform.position, transform.rotation, 0);
 								TmpBomb.transform.parent = GameObject.Find ("Bomben").transform;
 						}
 				}

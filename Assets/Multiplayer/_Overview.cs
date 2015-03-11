@@ -57,6 +57,7 @@ public class _Overview : MonoBehaviour
 										Network.InitializeServer (3, Port, NAT); 
 										MasterServer.RegisterHost (GameKennzeichen, "Beta", "Dev");
 										Network.Instantiate (Player, new Vector3 (1, 2, 0), Quaternion.identity, 0);
+										GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel ();
 								}
 								HostData[] data = MasterServer.PollHostList ();
 								if (data.Length == 0 && server_not_connect == false) {
@@ -93,7 +94,6 @@ public class _Overview : MonoBehaviour
 		}
 		void OnConnectedToServer ()
 		{
-				Debug.Log ("test");
 				Network.Instantiate (Player, new Vector3 (1, 2, 0), Quaternion.identity, 0);
 		}
 		void OnPlayerDisconnected (NetworkPlayer player)

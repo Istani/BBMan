@@ -7,8 +7,8 @@ public class CreateGround : MonoBehaviour
 		public GameObject Rahmen;
 		GameObject[] Raender = new GameObject[4];
 		Vector3 StartZone = new Vector3 (10, 10, 10);
-		// Use this for initialization
-		void Start ()
+		
+		public void GenerateLevel ()
 		{
 				GameObject TmpObject;
 				// Vorherige Blöcke löschen
@@ -19,7 +19,7 @@ public class CreateGround : MonoBehaviour
 				for (int x=0; x<StartZone.x; x++) {
 						for (int y=0; y<StartZone.y; y++) {
 								for (int z=0; z<StartZone.z; z++) {
-										TmpObject = (GameObject)Instantiate (Cube, new Vector3 (x, -y, z), Quaternion.Euler (new Vector3 (0, 0, 0)));
+										TmpObject = (GameObject)Network.Instantiate (Cube, new Vector3 (x, -y, z), Quaternion.Euler (new Vector3 (0, 0, 0)), 0);
 										TmpObject.transform.parent = transform;
 								}
 						}
@@ -45,11 +45,5 @@ public class CreateGround : MonoBehaviour
 				Raender [1].transform.localScale = new Vector3 (1, StartZone.y * 2, StartZone.z + 1);
 				Raender [2].transform.localScale = new Vector3 (StartZone.x + 1, StartZone.y * 2, 1);
 				Raender [3].transform.localScale = new Vector3 (StartZone.x + 1, StartZone.y * 2, 1);
-		}
-	
-		// Update is called once per frame
-		void Update ()
-		{
-	
 		}
 }

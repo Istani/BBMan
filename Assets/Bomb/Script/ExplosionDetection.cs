@@ -11,13 +11,12 @@ public class ExplosionDetection : MonoBehaviour
 		{
 				TimeToExplode -= Time.deltaTime;
 				if (TimeToExplode <= 0) {
-						DoExplosiveDmg ();
 						TimeToExplode = 99;
+						DoExplosiveDmg ();
 				}
 		}
 		void OnTriggerEnter (Collider other)
 		{
-				Debug.Log (other.name);
 				TocuhObjects.Add (other.gameObject);
 		}
 
@@ -30,10 +29,11 @@ public class ExplosionDetection : MonoBehaviour
 		{
 				foreach (GameObject Objects in TocuhObjects) {
 						if (Objects.layer == 9) {
+								Objects.SetActive (false);
 								Destroy (Objects);
 						}
 				}
-
+				transform.parent.gameObject.SetActive (false);
 				Destroy (transform.parent.gameObject);
 		}
 }
