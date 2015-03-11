@@ -18,9 +18,9 @@ public class Movement : MonoBehaviour
 						// Bewegung festlegen
 						bewegung.z = Input.GetAxis ("Vertical") * max_speed;
 						transform.Rotate (new Vector3 (0, Input.GetAxis ("Horizontal") * max_speed / 2, 0));
-						if (Input.GetButtonUp ("Jump")) {
-								bewegung.y = max_speed * 10;
-						}
+						//if (Input.GetButtonUp ("Jump")) {
+						//		bewegung.y = max_speed * 10;
+						//}
 						//Debug.Log (bewegung);
 
 						// Bewegung ausführen
@@ -32,8 +32,9 @@ public class Movement : MonoBehaviour
 						if (bewegung.z < 0) {
 								bewegung.z = 0;
 						}
-						transform.Translate (bewegung * Time.deltaTime);
 						bewegung.y = 0;
+						transform.Translate (bewegung * Time.deltaTime);
+						
 				}
 		}
 

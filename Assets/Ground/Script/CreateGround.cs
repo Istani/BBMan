@@ -17,7 +17,7 @@ public class CreateGround : MonoBehaviour
 				GameObject TmpObject;
 				// Vorherige Blöcke löschen
 				foreach (Transform child in transform) {
-						Destroy (child.gameObject);
+						Network.Destroy (child.gameObject.GetComponent<NetworkView> ().viewID);
 				}
 				//Boden erstellen
 				for (int x=0; x<StartZone.x; x++) {
