@@ -17,10 +17,13 @@ public class Fire : MonoBehaviour
 						
 						if (Input.GetButtonUp ("Fire1")) {
 								networkView.RPC ("LayBomb", RPCMode.Server, transform.position); // Damit die Bombe übern Server läuft
+								GameObject TmpBomb;
+								TmpBomb = (GameObject)Network.Instantiate (Bomb, transform.position, transform.rotation, 0);
+								TmpBomb.transform.parent = GameObject.Find ("Bomben").transform;
 						}
 				}
 		}
-
+		
 		[RPC]
 		public void LayBomb (Vector3 Pos)
 		{
@@ -28,4 +31,5 @@ public class Fire : MonoBehaviour
 				TmpBomb = (GameObject)Network.Instantiate (Bomb, Pos, transform.rotation, 0);
 				TmpBomb.transform.parent = GameObject.Find ("Bomben").transform;
 		}
+		
 }
