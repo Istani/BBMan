@@ -19,24 +19,30 @@ public class ExplosionDetection : MonoBehaviour
 		}
 		void OnTriggerEnter (Collider other)
 		{
-				TocuhObjects.Add (other.gameObject);
+				if (networkView.isMine) {
+						TocuhObjects.Add (other.gameObject);
+				}
 		}
 
 		void OnTriggerExit (Collider other)
 		{
-				TocuhObjects.Remove (other.gameObject);
+				if (networkView.isMine) {
+						TocuhObjects.Remove (other.gameObject);
+				}
 		}
 
 		public void DoExplosiveDmg ()
 		{
-				foreach (GameObject Objects in TocuhObjects) {
-						if (Objects.layer == 9) {
-								// Abfrage was fürn Object das ist, wenn Portal dann Spawn Portal ;)
-								Network.Destroy (Objects.gameObject.GetComponent<NetworkView> ().viewID);
+				if (networkView.isMine) {
+						foreach (GameObject Objects in TocuhObjects) {
+								if (Objects.layer == 9) {
+										// Abfrage was fürn Object das ist, wenn Portal dann Spawn Portal ;)
+										Network.Destroy (Objects.gameObject.GetComponent<NetworkView> ().viewID);
+								}
+								// Was wenn es Spieler sind
 						}
-						// Was wenn es Spieler sind
-				}
 
-				Network.Destroy (transform.parent.gameObject.GetComponent<NetworkView> ().viewID);
+						Network.Destroy (transform.parent.gameObject.GetComponent<NetworkView> ().viewID);
+				}
 		}
 }

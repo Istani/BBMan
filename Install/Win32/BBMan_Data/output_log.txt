@@ -13,13 +13,37 @@ Platform assembly: S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\
 Loading S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.099 seconds
+- Completed reload, in  0.110 seconds
 desktop: 1280x800 60Hz; virtual: 2560x1024 at -1280,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 0.514311 ms
+sendto failed with code -1 for char 1 and length 25.
+Received pong from 192.168.2.112:25000
+ 
+(Filename:  Line: 836)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+UnloadTime: 71.856621 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 181.
-Total: 0.721041 ms (FindLiveObjects: 0.014526 ms CreateObjectMapping: 0.036038 ms MarkObjects: 0.224609 ms  DeleteObjects: 0.006984 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 8.996115 ms (FindLiveObjects: 8.181207 ms CreateObjectMapping: 0.040507 ms MarkObjects: 0.263441 ms  DeleteObjects: 0.017600 ms)
+
+sendto failed with code -1 for char 1 and length 25.
+Received pong from 192.168.2.112:25000
+ 
+(Filename:  Line: 836)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+UnloadTime: 9.859912 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.747581 ms (FindLiveObjects: 0.013130 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.260927 ms  DeleteObjects: 0.009498 ms)
 
