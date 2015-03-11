@@ -13,7 +13,7 @@ Platform assembly: S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\
 Loading S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.132 seconds
+- Completed reload, in  0.114 seconds
 desktop: 1280x800 60Hz; virtual: 2560x1024 at -1280,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -25,19 +25,7 @@ Rahmen(Clone)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
+Bomb(Clone)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -45,1905 +33,7 @@ Bomb
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
 Rahmen(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Rahmen(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Explosion
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Explosion
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Bomb(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Rahmen(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -1963,11 +53,75 @@ Rahmen(Clone)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Bomb(Clone)
+Boden(Clone)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-Bomb(Clone)
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Boden(Clone)
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
@@ -2531,12 +685,9 @@ NullReferenceException
  
 (Filename:  Line: -1)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
@@ -2545,89 +696,45 @@ NullReferenceException
  
 (Filename:  Line: -1)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Boden(Clone)
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+Rahmen(Clone)
  
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
 Rahmen(Clone)
  
@@ -2647,9 +754,1706 @@ NullReferenceException
  
 (Filename:  Line: -1)
 
-Rahmen(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
@@ -2725,29 +2529,12 @@ NullReferenceException
  
 (Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
@@ -2756,29 +2543,33 @@ NullReferenceException
  
 (Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Boden(Clone)
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
@@ -2969,85 +2760,1125 @@ NullReferenceException
  
 (Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
 
-Boden(Clone)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
+  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
+  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()

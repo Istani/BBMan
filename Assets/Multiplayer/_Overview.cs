@@ -16,6 +16,7 @@ public class _Overview : MonoBehaviour
 		Vector2 scrollPosition = Vector2.zero;
 		public bool server_not_connect = false;
 		
+		public GameObject Player;
 		// Use this for initialization
 		void Start ()
 		{
@@ -55,6 +56,7 @@ public class _Overview : MonoBehaviour
 								if (GUILayout.Button ("Spiel erstellen")) {
 										Network.InitializeServer (3, Port, NAT); 
 										MasterServer.RegisterHost (GameKennzeichen, "Beta", "Dev");
+										Network.Instantiate (Player, new Vector3 (1, 2, 0), Quaternion.identity, 0);
 								}
 								HostData[] data = MasterServer.PollHostList ();
 								if (data.Length == 0 && server_not_connect == false) {
@@ -66,7 +68,7 @@ public class _Overview : MonoBehaviour
 										GUILayout.BeginHorizontal ();
 										if (element.connectedPlayers < element.playerLimit) { 
 												if (GUILayout.Button ("Connect")) {
-														Network.Connect (element);           
+														Network.Connect (element);        
 												}
 												var name = element.gameName + " (Players: " + element.connectedPlayers + " / " + element.playerLimit + ")";
 												GUILayout.Label (name);  
@@ -89,5 +91,16 @@ public class _Overview : MonoBehaviour
 		{
 				server_not_connect = true;
 		}
-
+		void OnConnectedToServer ()
+		{
+				Debug.Log ("test");
+				Network.Instantiate (Player, new Vector3 (1, 2, 0), Quaternion.identity, 0);
+		}
+		void OnPlayerDisconnected (NetworkPlayer player)
+		{
+				Network.RemoveRPCs (player);
+				Network.DestroyPlayerObjects (player);
+		}
+	
+	
 }
