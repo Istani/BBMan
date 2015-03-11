@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="S:\ZoD\ZoDDevelopment\Jump n ZoD\Assets\Scripts\Datenbank\Datenbank_Manager.cs">
+    <Files>
+      <File FileName="S:\ZoD\ZoDDevelopment\Jump n ZoD\Assets\Scripts\Datenbank\Datenbank_Equip.cs" Line="15" Column="28" />
+      <File FileName="S:\ZoD\ZoDDevelopment\Jump n ZoD\Assets\Scripts\Datenbank\Datenbank_Player.cs" Line="216" Column="27" />
+      <File FileName="S:\ZoD\ZoDDevelopment\Jump n ZoD\Assets\Scripts\Datenbank\Datenbank_Manager.cs" Line="149" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
