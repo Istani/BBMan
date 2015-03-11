@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Bomb\Script\ExplosionDetection.cs" />
      <Compile Include="Assets\Ground\Script\CreateGround.cs" />
+     <Compile Include="Assets\Helper\GUI_Helper.cs" />
+     <Compile Include="Assets\Multiplayer\_Overview.cs" />
      <Compile Include="Assets\Player\Script\Fire.cs" />
      <Compile Include="Assets\Player\Script\Movement.cs" />
   </ItemGroup>
