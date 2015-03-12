@@ -4,45 +4,56 @@ using System.Collections.Generic;
 
 public class ExplosionDetection : MonoBehaviour
 {
+		CreateGround GroundScript;
 		List<GameObject> TocuhObjects = new List<GameObject> ();
 		float TimeToExplode = 3.0f;
-		// Use this for initialization
+
+		void Start ()
+		{
+				if (networkView.isMine) {
+						GroundScript = GameObject.Find ("Ground").GetComponent<CreateGround> ();
+				}
+		}
+
 		void Update ()
 		{
-				if (networkView.isMine) { // weils nur der Server Spawnt ist es immer der Server
-						TimeToExplode -= Time.deltaTime;
-						if (TimeToExplode <= 0) {
-								TimeToExplode = 99;
+				
+				SphereCollider SCol = gameObject.GetComponent<SphereCollider> ();
+				SCol.radius = 2f;
+				TimeToExplode -= Time.deltaTime;
+
+				if (TimeToExplode <= 0) {
+						TimeToExplode = 99;
+						if (networkView.isMine) {
 								DoExplosiveDmg ();
 						}
 				}
 		}
 		void OnTriggerEnter (Collider other)
 		{
-				if (networkView.isMine) {
-						TocuhObjects.Add (other.gameObject);
-				}
+				TocuhObjects.Add (other.gameObject);
 		}
 
 		void OnTriggerExit (Collider other)
 		{
-				if (networkView.isMine) {
-						TocuhObjects.Remove (other.gameObject);
-				}
+				TocuhObjects.Remove (other.gameObject);
 		}
 
 		public void DoExplosiveDmg ()
 		{
-				if (networkView.isMine) {
-						foreach (GameObject Objects in TocuhObjects) {
-								if (Objects.layer == 9) {
-										// Abfrage was fürn Object das ist, wenn Portal dann Spawn Portal ;)
-										Network.Destroy (Objects.gameObject.GetComponent<NetworkView> ().viewID);
+				foreach (GameObject Objects in TocuhObjects) {
+						if (Objects.layer == 9) {
+								// Abfrage was fürn Object das ist, wenn Portal dann Spawn Portal ;)
+								Vector3 SpawnVector = Objects.transform.position;
+								Vector2 CheckVector = new Vector2 (SpawnVector.x, SpawnVector.z);
+								Network.Destroy (Objects.gameObject.GetComponent<NetworkView> ().viewID);
+								if (GroundScript.Felder [CheckVector] == FeldTyp.portal) {
+										//Spawn Portal
 								}
-								// Was wenn es Spieler sind
 						}
-
-						Network.Destroy (transform.parent.gameObject.GetComponent<NetworkView> ().viewID);
+						// Was wenn es Spieler sind
 				}
+
+				Network.Destroy (transform.parent.gameObject.GetComponent<NetworkView> ().viewID);
 		}
 }

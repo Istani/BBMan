@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player\Script\Fire.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Bomb\Script\ExplosionDetection.cs">
     <Files>
-      <File FileName="Assets\Bomb\Script\ExplosionDetection.cs" Line="1" Column="1" />
-      <File FileName="Assets\Player\Script\Fire.cs" Line="28" Column="82" />
+      <File FileName="Assets\Bomb\Script\ExplosionDetection.cs" Line="47" Column="16" />
+      <File FileName="Assets\Player\Script\Fire.cs" Line="27" Column="5" />
       <File FileName="Assets\Player\Script\Movement.cs" Line="1" Column="1" />
       <File FileName="Assets\Ground\Script\CreateGround.cs" Line="14" Column="2" />
+      <File FileName="Assets\Multiplayer\_Overview.cs" Line="174" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

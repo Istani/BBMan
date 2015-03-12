@@ -13,198 +13,22 @@ Platform assembly: S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\
 Loading S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading S:\ZoD\ZoDDevelopment\BBMan\Install\Win32\BBMan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.167 seconds
+- Completed reload, in  0.117 seconds
 desktop: 1280x800 60Hz; virtual: 2560x1024 at -1280,0
 <RI> Initializing input.
 <RI> Input initialized.
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
 sendto failed with code -1 for char 1 and length 25.
 Received pong from 192.168.2.112:25000
  
 (Filename:  Line: 836)
 
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1783)
-
-Network instantiated object, Bomb(Clone), has a missing script component attached
- 
-(Filename:  Line: 2463)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_layer ()
-  at ExplosionDetection.DoExplosiveDmg () [0x00000] in <filename unknown>:0 
-  at ExplosionDetection.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
 The server has disconnected from the client. Most likely the server has shut down.
  
 (Filename:  Line: 745)
 
-UnloadTime: 12.502985 ms
+UnloadTime: 81.672112 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 186.
-Total: 0.828317 ms (FindLiveObjects: 0.018717 ms CreateObjectMapping: 0.050565 ms MarkObjects: 0.274057 ms  DeleteObjects: 0.008380 ms)
+Total: 11.219582 ms (FindLiveObjects: 10.435963 ms CreateObjectMapping: 0.037993 ms MarkObjects: 0.249473 ms  DeleteObjects: 0.017879 ms)
 

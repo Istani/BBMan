@@ -24,8 +24,7 @@ public class Fire : MonoBehaviour
 		[RPC]
 		public void LayBomb (Vector3 Pos)
 		{
-				GameObject TmpBomb;
-				TmpBomb = (GameObject)Network.Instantiate (Bomb, Pos, transform.rotation, 0);
+				Network.Instantiate (Bomb, Pos, transform.rotation, 0);
 		}
 		
 }

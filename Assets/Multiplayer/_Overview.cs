@@ -49,7 +49,6 @@ public class _Overview : MonoBehaviour
 
 				} else {
 						if (UpdateTimer <= 0) {
-								MasterServer.ClearHostList ();
 								MasterServer.RequestHostList (GameKennzeichen);
 								UpdateTimer = UpdateCooldown;
 						}
@@ -173,7 +172,6 @@ public class _Overview : MonoBehaviour
 						GameObject.Find ("Ground").GetComponent<CreateGround> ().GenerateLevel (PlayerNames.Count);
 				}
 				GameObject obj = (GameObject)Network.Instantiate (Player, new Vector3 (0, 0, 0), Quaternion.identity, 0);
-				obj.name = PName;
 				obj.transform.FindChild ("Camera").gameObject.SetActive (true);
 				GameToStart = true;
 		}
